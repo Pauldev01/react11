@@ -27,7 +27,7 @@ function App() {
         setBolean(!bolean)
         console.log(bolean);
       }}>
-        red
+        red 
       </button>
     </div>
   );
